@@ -2,3 +2,5 @@
 内容管理平台
 
 add a feature branch 
+
+update readme
